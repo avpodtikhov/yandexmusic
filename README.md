@@ -18,9 +18,12 @@
 
 Код паука в папке './yandexmusic/yandexmusic/spiders/spider.py'.
 
-После данные с помощью библиотеки py2neo и отправляются в граф Neo4j ('./yandexmusic/yandexmusic/pipeline.py').
+После данные с помощью библиотеки py2neo и отправляются в граф Neo4j ('./yandexmusic/yandexmusic/pipelines.py').
 
 Итоги сбора данных:
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ![Рабоатет?](https://i.ibb.co/MBQnb9d/Screenshot-2020-03-18-at-22-59-52.png)
