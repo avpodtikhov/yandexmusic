@@ -20,6 +20,13 @@
 
 После данные с помощью библиотеки py2neo и отправляются в граф Neo4j ('./yandexmusic/yandexmusic/pipelines.py').
 
+С помощью запроса
+<code>
+MATCH (a)
+where size((a)-[]-())=1
+MATCH (a)-[f]-(b)
+DELETE f, a
+ </code>
 Итоги сбора данных:
 | First Header  | Second Header |
 | ------------- | ------------- |
