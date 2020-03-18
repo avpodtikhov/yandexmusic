@@ -37,4 +37,4 @@ DELETE f, a
 :-------------------------:|:-------------------------:
 ![](https://i.ibb.co/0Dgtq1d/Screenshot-2020-03-19-at-00-09-05.png)  |  ![Рабоатет?](https://i.ibb.co/MBQnb9d/Screenshot-2020-03-18-at-22-59-52.png)
 3             |  4
-![](https://i.ibb.co/4P9Dhtw/Screenshot-2020-03-19-at-00-13-19.png) | asdsad
+![](https://i.ibb.co/4P9Dhtw/Screenshot-2020-03-19-at-00-13-19.png) | ![](https://i.ibb.co/9GrxcLb/Screenshot-2020-03-19-at-00-27-29.png)
