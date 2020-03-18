@@ -33,4 +33,6 @@ DELETE f, a
 | ------------- | ------------- |
 | 4255  | 17466   |
 
-![](https://i.ibb.co/0Dgtq1d/Screenshot-2020-03-19-at-00-09-05.png)![Рабоатет?](https://i.ibb.co/MBQnb9d/Screenshot-2020-03-18-at-22-59-52.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://i.ibb.co/0Dgtq1d/Screenshot-2020-03-19-at-00-09-05.png)  |  ![Рабоатет?](https://i.ibb.co/MBQnb9d/Screenshot-2020-03-18-at-22-59-52.png)
