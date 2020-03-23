@@ -61,4 +61,7 @@ DELETE f, a
 :-------------------------:|:-------------------------:
 ![](./images/wheel_my.png) | ![](./images/wheel_nx.png)
 
-
+#### Hierarchically constructed Dorogovtsev-Goltsev-Mendes graph
+Моя реализация             |  Networkx
+:-------------------------:|:-------------------------:
+![](./images/wheel_my.png) | ![](./images/wheel_nx.png)
