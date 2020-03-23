@@ -35,7 +35,7 @@ DELETE f, a
 
 1             |  2
 :-------------------------:|:-------------------------:
-![](https://i.ibb.co/0Dgtq1d/Screenshot-2020-03-19-at-00-09-05.png)  |  ![Рабоатет?](https://i.ibb.co/MBQnb9d/Screenshot-2020-03-18-at-22-59-52.png)
+![](https://camo.githubusercontent.com/e46b1e76ea1247ac7842b35a76dc3c0935c10881/68747470733a2f2f692e6962622e636f2f304467747131642f53637265656e73686f742d323032302d30332d31392d61742d30302d30392d30352e706e67)  |  ![Рабоатет?](https://i.ibb.co/MBQnb9d/Screenshot-2020-03-18-at-22-59-52.png)
 3             |  4
 ![](https://i.ibb.co/4P9Dhtw/Screenshot-2020-03-19-at-00-13-19.png) | ![](https://i.ibb.co/9GrxcLb/Screenshot-2020-03-19-at-00-27-29.png)
 # Алгоритм визуализации.
