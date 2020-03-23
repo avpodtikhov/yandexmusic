@@ -54,4 +54,4 @@ DELETE f, a
 ## Karate_club
 Моя реализация             |  Networkx
 :-------------------------:|:-------------------------:
-![](./images/karate_my.png) | ![]()
+![](./images/karate_my.png) | ![](./images/karate_nx.png)
