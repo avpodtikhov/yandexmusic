@@ -44,3 +44,6 @@ DELETE f, a
 
 Алгоритм (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8444&rep=rep1&type=pdf):
 ![](https://i.imgur.com/X2z4OnQ.png)
+Я добавил несколько изменений к описанному выше алгоритму:
+1. W = L = 1.
+2. После каждого подсчета $\delta$
