@@ -59,6 +59,6 @@ DELETE f, a
 #### Wheel graph
 Моя реализация             |  Networkx
 :-------------------------:|:-------------------------:
-![](./images/karate_my.png) | ![](./images/karate_nx.png)
+![](./images/wheel_my.png) | ![](./images/wheel_nx.png)
 
 
