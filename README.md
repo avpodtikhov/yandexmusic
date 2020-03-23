@@ -64,4 +64,4 @@ DELETE f, a
 #### Hierarchically constructed Dorogovtsev-Goltsev-Mendes graph
 Моя реализация             |  Networkx
 :-------------------------:|:-------------------------:
-![](./images/wheel_my.png) | ![](./images/wheel_nx.png)
+![](./images/dgm_my.png) | ![](./images/dgm_nx.png)
