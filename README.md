@@ -46,4 +46,5 @@ DELETE f, a
 ![](https://i.imgur.com/X2z4OnQ.png)
 Я добавил несколько изменений к описанному выше алгоритму:
 1. W = L = 1.
-2. После каждого подсчета ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+2. После каждого подсчета 
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
