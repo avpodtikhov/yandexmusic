@@ -80,4 +80,4 @@ DELETE f, a
 
 ![](./images/best.png)
 
-Алгоритм в файле visualisation.py
+Алгоритм в файле visualization.py
